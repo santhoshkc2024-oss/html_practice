@@ -1,0 +1,37 @@
+p{
+    color:rgb(239, 11, 11,0.9);
+}
+.green{
+      color: green;
+}
+#test{
+    font-size: smaller;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+#header{
+    color: purple;
+    background-color: green;
+
+}
+.text{
+    font-family: 'Courier New', Courier, monospace;
+    font-display: block;
+    
+}
+#test i{
+    background-color:pink ; color:aquamarine;
+}
+*{
+text-align: center;
+}
+b{
+color:black;
+}
+del{
+background-color:yellow;
+}
+strong{
+    text-color:black;
+    background-color:rgb(244, 241, 241);
+
+}

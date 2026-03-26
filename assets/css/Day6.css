@@ -1,0 +1,32 @@
+#main{
+    width:100%;
+    overflow:auto;
+}
+    #header{
+    background-color: rgb(77, 217, 77);
+    text-align: center;
+    padding:20px;
+    margin-bottom:10px;
+}
+#sidebar{
+    background-color: aqua;
+    width:23%;
+    float:left;
+    text-align: center;
+    margin-right: 2%;
+    min-height: 300px;
+    
+}
+#content{
+    background-color: blue;
+    width:75%;
+    float:right;
+    min-height:300px;
+    
+}
+#footer{
+    background-color: brown;
+    text-align:center;
+    padding:20px;
+    margin-top:10px;
+}

@@ -1,0 +1,13 @@
+div{
+    width:300px; 
+    height:300px;
+}
+#linear1{
+    background-image: linear-gradient(red,blue);
+}
+#linear2{
+background-image: radial-gradient(green,red,blue);
+}
+#linear3{
+     background-image: conic-gradient(green 90deg,red 90deg,blue 90deg,gold);
+}

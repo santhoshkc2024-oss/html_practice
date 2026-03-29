@@ -1,0 +1,14 @@
+.flexbox{
+    display: flex;
+    background-color:antiquewhite;
+    flex-direction: row;
+    flex-wrap: wrap wrap-reverse;
+    justify-content:space-around;
+}
+.flexbox >div{
+    width:100px;
+    margin:5px;
+    padding:10px;
+    text-align: center;
+    background-color: blueviolet;
+}

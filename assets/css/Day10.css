@@ -1,0 +1,17 @@
+h1{
+    text-shadow: 6px 6px 3px rgb(255, 172, 47),5px 5px 2px blue,6px 6px 6px red
+}
+.flexbox{
+    display: flex;
+    background-color:antiquewhite;
+    flex-direction: row;
+    flex-wrap: wrap wrap-reverse;
+    justify-content:space-around;
+}
+.flexbox >div{
+    width:100px;
+    margin:5px;
+    padding:10px;
+    text-align: center;
+    background-color: blueviolet;
+}
